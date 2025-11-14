@@ -65,7 +65,7 @@
 		<meta property="file-as" refines="#artist">Munns, John Bernard</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Jim Henry III</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Henry, Jim III</meta>
+		<meta property="file-as" refines="#transcriber-1">Henry III, Jim</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Martin Ward</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Ward, Martin</meta>
